@@ -1,0 +1,6 @@
+{
+  "name": "Akta News",
+  "description": "Real-time breaking news portal with personalized feed, offline reading, community discussions, and push alerts.",
+  "requestFramePermissions": ["notifications"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
